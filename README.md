@@ -6,13 +6,10 @@ The denoising filter is a cut-down version of Spatiotemporal Variance-Guided Fil
 
 # usage
 
+compile on Linux w/ Makefile, (untested on windows, might work with MinGW/Clang if SDL and `glslc` are installed)
 run by calling 
 
 ```bash
 bin/galileo3d
 ```
 
-on windows using prebuilt binaries: (built w/ clang)
-```
-winbin/galileo3d
-```
