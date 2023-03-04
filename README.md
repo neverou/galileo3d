@@ -10,6 +10,6 @@ compile on Linux w/ Makefile, (untested on windows, might work with MinGW/Clang 
 run by calling 
 
 ```bash
-bin/galileo3d
+bin/galileo3d <model path>
 ```
 
